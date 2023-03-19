@@ -10,7 +10,7 @@
 ### Contacto
 <p>
   <a href="https://www.linkedin.com/in/franco-andres-riggio/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">:Franco Riggio
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">: Franco Riggio
   </a> &nbsp; 
-  <p>✉:friggio.87@gmail.com</p>
+  <p>✉: friggio.87@gmail.com</p>
 </p>
